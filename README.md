@@ -72,6 +72,7 @@ latest update: 7/18
 
 # Model
 概略図
+最終層は Sigmoid ではなくて SoftMax です。
 
 ![image](https://user-images.githubusercontent.com/49775901/179500271-435503f8-10ba-4f2a-accf-5855662d2e8b.png)
 
